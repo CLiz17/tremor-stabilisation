@@ -49,8 +49,4 @@ Contributions to this repository are welcome. You can contribute by:
 
 Please create a pull request to contribute to this repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
 Happy coding!
